@@ -1,9 +1,10 @@
 # MIPS Bitmap Display
 
 ## Description
-By: Ali Faiyaz
 
 This MIPS assembly program is designed to draw a shape on a 2D bitmap display using the MARS simulator. 
+
+By: Ali Faiyaz
 
 ## Inputs
 The input to the program is expected to be the assembly language version of the following C structure:
