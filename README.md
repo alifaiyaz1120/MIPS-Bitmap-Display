@@ -1,4 +1,4 @@
-# MIPS Program for Drawing a Square on Bitmap Display
+# MIPS Bitmap Display
 
 ## Description
 This MIPS assembly program is designed to draw a shape on a 2D bitmap display using the MARS simulator. 
@@ -25,5 +25,4 @@ struct projInput {
 ## Links:
 - https://courses.missouristate.edu/kenvollmar/mars/download.htm
   
-<img width="892" alt="Screenshot 2023-12-15 at 11 59 54 PM" src="https://github.com/alifaiyaz1120/MIPS-Project/assets/119764873/08b28ed5-7b5c-49f6-98af-a2a252428b90">
-<img width="777" alt="Screenshot 2023-12-16 at 12 00 07 AM" src="https://github.com/alifaiyaz1120/MIPS-Project/assets/119764873/467c0654-fc43-4bd0-8e0e-b92cc47bc212">
+<img width="915" alt="Screenshot 2023-12-16 at 11 14 57 PM" src="https://github.com/alifaiyaz1120/MIPS-Project/assets/119764873/a2f06337-c0f6-490c-9c3c-4e31bec0b8bb">
