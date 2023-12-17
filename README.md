@@ -14,7 +14,7 @@ struct projInput {
 };
 ```
 ## Requirements
-- MARS MIPS simulator or another MIPS emulator.
+- MARS MIPS simulator 
   
 ## Bitmap Display Setup
 - To visualize the output, use the MARS simulator Bitmap Display. Follow these steps:
