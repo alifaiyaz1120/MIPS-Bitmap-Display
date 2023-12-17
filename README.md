@@ -8,10 +8,10 @@ The input to the program is expected to be the assembly language version of the 
 
 ```c
 struct projInput {
-  unsigned m, n; // size parameters
-  unsigned c1r, c1g, c1b; // color 1 specs
-  unsigned c2r, c2g, c2b; // color 2 specs
-}
+    unsigned m, n;       // Dimensions of the shape
+    unsigned c1r, c1g, c1b; // Red-green-blue components for color 1
+    unsigned c2r, c2g, c2b; // Red-green-blue components for color 2
+};
 ```
 ## Requirements
 - MARS MIPS simulator or another MIPS emulator.
