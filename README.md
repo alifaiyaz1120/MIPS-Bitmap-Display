@@ -18,6 +18,7 @@ struct projInput {
   
 ## Bitmap Display Setup
 - To visualize the output, use the MARS simulator Bitmap Display. Follow these steps:
+  
       - Select Tools → Bitmap Display.
       - Click the "Connect to MIPS" button.
       - Assemble and run your program.
